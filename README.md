@@ -8,3 +8,8 @@ Amit tartalmaz:
 - működik a belépés regisztráció
 - felhasználóhoz kötött jogosultság és eltérő menü
 - adatbázis lekérdezése űrlap segítségével (ajax).
+
+Verzió 2.0
+Felület változások reszponzívitás miatt.
+Admin jogosult felhasználó törlésére.
+Bejelentkezett felhasználó a torony adatait PDF formában is eléri.
